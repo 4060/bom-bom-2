@@ -1,0 +1,26 @@
+{
+  "name": "xrias-patlatma-bot",
+  "version": "0.0.1",
+  "description": "xRias Tarafından Rîa Ekibine yapılan patlatma botudur.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/~xrias-patlatma-bot"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
